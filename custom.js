@@ -1131,11 +1131,11 @@
                 r = o.attr("data-wf-domain") || "";
             /\.webflow\.io$/i.test(r) && u.hostname !== r && (i = !0), i && !c && (n = n || function() {
                 var e = t('<a class="w-webflow-badge"></a>').attr("href", "https://webflow.com?utm_campaign=brandjs"),
-                    n = t("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-icon.60efbf6ec9.svg").css({
+                    n = t("<img>").attr("src", "images/webflow-badge-icon.60efbf6ec9.svg").css({
                         marginRight: "8px",
                         width: "16px"
                     }),
-                    i = t("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-text.6faa6a38cd.svg");
+                    i = t("<img>").attr("src", "images/webflow-badge-text.6faa6a38cd.svg");
                 return e.append(n, i), e[0]
             }(), e(), setTimeout(e, 500))
         }, r

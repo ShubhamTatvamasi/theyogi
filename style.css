@@ -305,15 +305,15 @@ figcaption {
 
 .button.instagram-button {
   padding-left: 48px;
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), -webkit-linear-gradient(0deg, #ff935c, #fb406c);
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), linear-gradient(90deg, #ff935c, #fb406c);
+  background-image: url("images/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), -webkit-linear-gradient(0deg, #ff935c, #fb406c);
+  background-image: url("images/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), linear-gradient(90deg, #ff935c, #fb406c);
   background-position: 20px 50%, 0px 0px;
   background-repeat: no-repeat, repeat;
 }
 
 .button.instagram-button:hover {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), -webkit-linear-gradient(270deg, rgba(0, 0, 0, .05), rgba(0, 0, 0, .05)), -webkit-linear-gradient(0deg, #ff935c, #fb406c);
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), linear-gradient(180deg, rgba(0, 0, 0, .05), rgba(0, 0, 0, .05)), linear-gradient(90deg, #ff935c, #fb406c);
+  background-image: url("images/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), -webkit-linear-gradient(270deg, rgba(0, 0, 0, .05), rgba(0, 0, 0, .05)), -webkit-linear-gradient(0deg, #ff935c, #fb406c);
+  background-image: url("images/59a3ba84fdd0390001e1259f_instagram-icon-white.svg"), linear-gradient(180deg, rgba(0, 0, 0, .05), rgba(0, 0, 0, .05)), linear-gradient(90deg, #ff935c, #fb406c);
   background-position: 20px 50%, 0px 0px, 0px 0px;
   background-repeat: no-repeat, repeat, repeat;
 }
@@ -381,8 +381,8 @@ figcaption {
 
 .button-style-wrapper.dark-bg {
   background-color: #224765;
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("images/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("images/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -489,8 +489,8 @@ figcaption {
 }
 
 .image-section.hero-section.hero-image {
-  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .55), rgba(25, 77, 119, .55)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59ad3a797ba794000107dea1_mike-wilson-181835.jpg");
-  background-image: linear-gradient(180deg, rgba(25, 77, 119, .55), rgba(25, 77, 119, .55)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59ad3a797ba794000107dea1_mike-wilson-181835.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .55), rgba(25, 77, 119, .55)), url("images/59ad3a797ba794000107dea1_mike-wilson-181835.jpg");
+  background-image: linear-gradient(180deg, rgba(25, 77, 119, .55), rgba(25, 77, 119, .55)), url("images/59ad3a797ba794000107dea1_mike-wilson-181835.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -499,8 +499,8 @@ figcaption {
 .image-section.cta-section {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .64), rgba(34, 71, 101, .64)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a430f88e0c2d000194f15a_breather-168767.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .64), rgba(34, 71, 101, .64)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a430f88e0c2d000194f15a_breather-168767.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .64), rgba(34, 71, 101, .64)), url("images/59a430f88e0c2d000194f15a_breather-168767.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .64), rgba(34, 71, 101, .64)), url("images/59a430f88e0c2d000194f15a_breather-168767.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -510,8 +510,8 @@ figcaption {
 .image-section.testimonials-section {
   padding-top: 110px;
   padding-bottom: 110px;
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -519,8 +519,8 @@ figcaption {
 }
 
 .image-section.footer-section {
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("images/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .75), rgba(34, 71, 101, .75)), url("images/59a67b6dca51d80001e97e53_samuel-zeller-242172.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -528,8 +528,8 @@ figcaption {
 }
 
 .image-section.blog-hero-section {
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
   background-position: 0px 0px, 50% -94px;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -551,8 +551,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a78014edef3e0001f7eefa_bench-accounting-49909.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a78014edef3e0001f7eefa_bench-accounting-49909.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a78014edef3e0001f7eefa_bench-accounting-49909.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .65), rgba(34, 71, 101, .65)), url("images/59a78014edef3e0001f7eefa_bench-accounting-49909.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -561,7 +561,7 @@ figcaption {
 
 .image-section.blog-post-hero-section {
   position: relative;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
+  background-image: url("images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -569,8 +569,8 @@ figcaption {
 }
 
 .image-section.style-guide-section {
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a95eb8e7fcbd0001dd1471_joanna-kosinska-131081.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a95eb8e7fcbd0001dd1471_joanna-kosinska-131081.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a95eb8e7fcbd0001dd1471_joanna-kosinska-131081.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a95eb8e7fcbd0001dd1471_joanna-kosinska-131081.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -580,8 +580,8 @@ figcaption {
 .image-section.facts-bg-section {
   padding-top: 72px;
   padding-bottom: 72px;
-  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59d3858724d13a0001940c25_michal-grosicki-235031.jpg");
-  background-image: linear-gradient(180deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59d3858724d13a0001940c25_michal-grosicki-235031.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("images/59d3858724d13a0001940c25_michal-grosicki-235031.jpg");
+  background-image: linear-gradient(180deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("images/59d3858724d13a0001940c25_michal-grosicki-235031.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -589,8 +589,8 @@ figcaption {
 }
 
 .image-section.licensing-section {
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a5203a275ea20001337135_jeshoots-com-219386.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -667,8 +667,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
-  background-image: linear-gradient(180deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("images/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
+  background-image: linear-gradient(180deg, rgba(25, 77, 119, .5), rgba(25, 77, 119, .5)), url("images/59a3ba84fdd0390001e125a9_davide-cantelli-240809.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -990,21 +990,21 @@ figcaption {
 }
 
 .big-side-feature-image.image-2 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a3fa0e054ed30001e5a317_claudia-nuta-347142.jpg");
+  background-image: url("images/59a3fa0e054ed30001e5a317_claudia-nuta-347142.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .big-side-feature-image.image-1 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59d39d6edeecf000018fb72f_domenico-loia-364221.jpg");
+  background-image: url("images/59d39d6edeecf000018fb72f_domenico-loia-364221.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .big-side-feature-image.image-3 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59d39ec0484e310001c82376_jeff-sheldon-3225.jpg");
+  background-image: url("images/59d39ec0484e310001c82376_jeff-sheldon-3225.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1173,35 +1173,35 @@ figcaption {
 }
 
 .instagram-photo.photo-1 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a425f50d450e0001815e8e_anjeli-lundblad-183074.jpg");
+  background-image: url("images/59a425f50d450e0001815e8e_anjeli-lundblad-183074.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .instagram-photo.photo-2 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a425f5a5e6ae000178d6d6_benjamin-balazs-106653.jpg");
+  background-image: url("images/59a425f5a5e6ae000178d6d6_benjamin-balazs-106653.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .instagram-photo.photo-3 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a425f43e53e400017cd064_tran-mau-tri-tam-50424.jpg");
+  background-image: url("images/59a425f43e53e400017cd064_tran-mau-tri-tam-50424.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .instagram-photo.photo-4 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a425f5a5e6ae000178d6d5_cynthia-del-rio-88295.jpg");
+  background-image: url("images/59a425f5a5e6ae000178d6d5_cynthia-del-rio-88295.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .instagram-photo.photo-5 {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a425f53e53e400017cd066_cathryn-lavery-67852.jpg");
+  background-image: url("images/59a425f53e53e400017cd066_cathryn-lavery-67852.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1286,8 +1286,8 @@ figcaption {
   margin: auto;
   border: 2px solid #fff;
   border-radius: 50%;
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a42d96b154e300016f9190_play-icon.svg"), -webkit-linear-gradient(270deg, #ff935c, #fb406c);
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a42d96b154e300016f9190_play-icon.svg"), linear-gradient(180deg, #ff935c, #fb406c);
+  background-image: url("images/59a42d96b154e300016f9190_play-icon.svg"), -webkit-linear-gradient(270deg, #ff935c, #fb406c);
+  background-image: url("images/59a42d96b154e300016f9190_play-icon.svg"), linear-gradient(180deg, #ff935c, #fb406c);
   background-position: 50% 50%, 0px 0px;
   background-repeat: no-repeat, repeat;
   -webkit-transition: -webkit-transform 400ms ease;
@@ -1948,7 +1948,7 @@ figcaption {
 }
 
 .heart-icon {
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a6815781db3500011571f7_heart-icon.svg");
+  background-image: url("images/59a6815781db3500011571f7_heart-icon.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   color: transparent;
@@ -1969,7 +1969,7 @@ figcaption {
   height: 60px;
   margin-right: 16px;
   background-color: #224765;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
+  background-image: url("images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2109,7 +2109,7 @@ figcaption {
   margin-bottom: 19px;
   border-radius: 3px;
   background-color: #224765;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
+  background-image: url("images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2253,7 +2253,7 @@ figcaption {
   height: 176px;
   margin-bottom: 9px;
   border-radius: 3px;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
+  background-image: url("images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2592,8 +2592,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
-  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
+  background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -2747,8 +2747,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 50%;
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59ad09cb1c303d0001fdad10_callback-icon-white.png"), -webkit-linear-gradient(270deg, #ff935c, #fb406c);
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59ad09cb1c303d0001fdad10_callback-icon-white.png"), linear-gradient(180deg, #ff935c, #fb406c);
+  background-image: url("images/59ad09cb1c303d0001fdad10_callback-icon-white.png"), -webkit-linear-gradient(270deg, #ff935c, #fb406c);
+  background-image: url("images/59ad09cb1c303d0001fdad10_callback-icon-white.png"), linear-gradient(180deg, #ff935c, #fb406c);
   background-position: 50% 50%, 0px 0px;
   background-size: 32px, auto;
   background-repeat: no-repeat, repeat;
@@ -2821,7 +2821,7 @@ figcaption {
   height: 28px;
   margin-top: 20px;
   margin-right: 20px;
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59abe5771c303d0001fd3951_close-icon.svg");
+  background-image: url("images/59abe5771c303d0001fd3951_close-icon.svg");
   background-position: 50% 50%;
   background-size: 12px;
   background-repeat: no-repeat;
@@ -2877,7 +2877,7 @@ figcaption {
   bottom: 0px;
   z-index: 10000;
   display: none;
-  background-image: url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59ae781a7353c5000177a0ec_preloader.svg");
+  background-image: url("images/59ae781a7353c5000177a0ec_preloader.svg");
   background-position: 50% 50%;
   background-size: 32px;
   background-repeat: no-repeat;
@@ -2980,7 +2980,7 @@ figcaption {
   margin-bottom: 4px;
   border-radius: 3px;
   background-color: #224765;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
+  background-image: url("images/example-bg.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3737,8 +3737,8 @@ html.w-mod-js *[data-ix="show-call-back-popup"] {
     padding-left: 8px;
   }
   .image-section.blog-hero-section {
-    background-image: -webkit-linear-gradient(270deg, null, null), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
-    background-image: linear-gradient(180deg, null, null), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
+    background-image: -webkit-linear-gradient(270deg, null, null), url("images/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
+    background-image: linear-gradient(180deg, null, null), url("images/59a6aa2cca51d80001e99cbf_lauren-mancke-60627.jpg");
     background-position: 0px 0px, 50% 50%;
   }
   .logo {
@@ -4469,8 +4469,8 @@ html.w-mod-js *[data-ix="show-call-back-popup"] {
     padding-left: 0px;
   }
   .slide-2 {
-    background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
-    background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("http://uploads.webflow.com/59a3ba84fdd0390001e12581/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
+    background-image: -webkit-linear-gradient(270deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
+    background-image: linear-gradient(180deg, rgba(34, 71, 101, .7), rgba(34, 71, 101, .7)), url("images/59a92d48622d450001e47377_alesia-kazantceva-283291.jpg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;
